@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/benjaminzhang/Projects/cpp_projects/main'
+relocations:     []
+...
